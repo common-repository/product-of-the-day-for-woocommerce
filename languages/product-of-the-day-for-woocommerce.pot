@@ -1,0 +1,366 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product of the Day for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-16 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1"
+
+#: includes/custom_post_type.php:286
+msgid "Add New Products List"
+msgstr ""
+
+#: includes/custom_post_type.php:285
+msgid "Add Products List"
+msgstr ""
+
+#: templates/styles.php:4
+msgid "Add to cart button"
+msgstr ""
+
+#: includes/custom_post_type.php:284
+msgctxt "Admin menu name"
+msgid "Products Lists"
+msgstr ""
+
+#: main.php:156 includes/custom_post_type.php:86
+msgid "After content"
+msgstr ""
+
+#: templates/styles.php:79
+msgid "Background color"
+msgstr ""
+
+#: templates/styles.php:91
+msgid "Background color on mouse over"
+msgstr ""
+
+#: main.php:149 includes/custom_post_type.php:85
+msgid "Before content"
+msgstr ""
+
+#: main.php:163 includes/custom_post_type.php:87
+msgid "Before footer"
+msgstr ""
+
+#. Author of the plugin
+msgid "BeRocket"
+msgstr ""
+
+#: templates/styles.php:103
+msgid "Border color"
+msgstr ""
+
+#: templates/styles.php:115
+msgid "Border color on mouse over"
+msgstr ""
+
+#: templates/styles.php:33
+msgid "Border round"
+msgstr ""
+
+#: templates/styles.php:31
+msgid "Border width"
+msgstr ""
+
+#: templates/styles.php:49 templates/styles.php:59
+msgid "Bottom"
+msgstr ""
+
+#: templates/styles.php:73
+msgid "Bottom-Left"
+msgstr ""
+
+#: templates/styles.php:71
+msgid "Bottom-Right"
+msgstr ""
+
+#: includes/custom_post_type.php:317
+msgid "Conditions"
+msgstr ""
+
+#: includes/custom_post_type.php:38 includes/custom_post_type.php:43
+msgid "Country"
+msgstr ""
+
+#: includes/custom_post_type.php:18
+msgid "Day Time"
+msgstr ""
+
+#: includes/widget.php:132
+msgid "Default"
+msgstr ""
+
+#: main.php:176
+msgid "Disable Font Awesome"
+msgstr ""
+
+#: main.php:180
+msgid ""
+"Don't load Font Awesome css files on site front end. Use it only if you "
+"don't use Font Awesome icons in widgets or your theme has Font Awesome."
+msgstr ""
+
+#: includes/custom_post_type.php:287
+msgid "Edit"
+msgstr ""
+
+#: includes/custom_post_type.php:288
+msgid "Edit Products List"
+msgstr ""
+
+#: main.php:187
+msgid "Font Awesome 4"
+msgstr ""
+
+#: main.php:188
+msgid "Font Awesome 5"
+msgstr ""
+
+#: main.php:183
+msgid "Font Awesome Version"
+msgstr ""
+
+#: includes/custom_post_type.php:62
+msgid "Friday"
+msgstr ""
+
+#: includes/custom_post_type.php:113
+msgid "From: "
+msgstr ""
+
+#: templates/styles.php:3
+msgid "Global styles"
+msgstr ""
+
+#: includes/widget.php:161
+msgid "Hide out of stock products"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://berocket.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/product-of-the-day-for-woocommerce/"
+msgstr ""
+
+#: templates/styles.php:51 templates/styles.php:61
+msgid "Left"
+msgstr ""
+
+#: includes/custom_post_type.php:137
+msgid "Logged In Customers"
+msgstr ""
+
+#: includes/custom_post_type.php:138
+msgid "Logged In Not Customers"
+msgstr ""
+
+#: includes/custom_post_type.php:58
+msgid "Monday"
+msgstr ""
+
+#: includes/custom_post_type.php:289
+msgid "New Products List"
+msgstr ""
+
+#: includes/custom_post_type.php:293
+msgid "No Products Lists found"
+msgstr ""
+
+#: includes/custom_post_type.php:294
+msgid "No Products Lists found in trash"
+msgstr ""
+
+#: includes/custom_post_type.php:136
+msgid "Not Logged In"
+msgstr ""
+
+#: includes/widget.php:143
+msgid "Number of Products per line:"
+msgstr ""
+
+#: includes/widget.php:121
+msgid "Number of Products:"
+msgstr ""
+
+#: templates/styles.php:32
+msgid "Paddings"
+msgstr ""
+
+#: includes/widget.php:115 includes/custom_post_type.php:83
+msgid "Position"
+msgstr ""
+
+#: main.php:142
+msgid "Position to display products of day"
+msgstr ""
+
+#: templates/styles.php:5
+msgid "Price"
+msgstr ""
+
+#: includes/custom_post_type.php:49
+msgid "Product In Cart"
+msgstr ""
+
+#. Name of the plugin
+msgid "Product of the Day for WooCommerce"
+msgstr ""
+
+#: includes/custom_post_type.php:404
+msgid "Products"
+msgstr ""
+
+#: includes/custom_post_type.php:280 includes/custom_post_type.php:283
+msgid "Products List"
+msgstr ""
+
+#: includes/custom_post_type.php:318
+msgid "Products List Settings"
+msgstr ""
+
+#: includes/custom_post_type.php:282
+msgid "Products Lists"
+msgstr ""
+
+#: templates/styles.php:8
+msgid "Quick View button"
+msgstr ""
+
+#: includes/widget.php:125
+msgid "Random Products from List"
+msgstr ""
+
+#: templates/styles.php:53 templates/styles.php:63
+msgid "Right"
+msgstr ""
+
+#: includes/custom_post_type.php:63
+msgid "Saturday"
+msgstr ""
+
+#: includes/custom_post_type.php:292
+msgid "Search Products Lists"
+msgstr ""
+
+#: includes/custom_post_type.php:33
+msgid "Shipping Zone"
+msgstr ""
+
+#: includes/widget.php:151
+msgid "Show Add to Cart Button"
+msgstr ""
+
+#: includes/widget.php:156
+msgid "Show Qiuck View Button"
+msgstr ""
+
+#: includes/widget.php:147
+msgid "Show Thumbnails"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Shows products from your shop to your customers on each day of the week."
+msgstr ""
+
+#: includes/widget.php:133
+msgid "Slider"
+msgstr ""
+
+#: includes/custom_post_type.php:64
+msgid "Sunday"
+msgstr ""
+
+#: templates/styles.php:22
+msgid "Text color"
+msgstr ""
+
+#: templates/styles.php:37
+msgid "Text color on mouse over"
+msgstr ""
+
+#: includes/custom_post_type.php:296
+msgid "This is where you can add Products Lists."
+msgstr ""
+
+#: includes/custom_post_type.php:61
+msgid "Thursday"
+msgstr ""
+
+#: includes/custom_post_type.php:114
+msgid "Till: "
+msgstr ""
+
+#: templates/styles.php:47 templates/styles.php:57
+msgid "Top"
+msgstr ""
+
+#: templates/styles.php:67
+msgid "Top-Left"
+msgstr ""
+
+#: templates/styles.php:69
+msgid "Top-Right"
+msgstr ""
+
+#: includes/custom_post_type.php:59
+msgid "Tuesday"
+msgstr ""
+
+#: includes/widget.php:129
+msgid "Type:"
+msgstr ""
+
+#: templates/styles.php:15
+msgid "Use"
+msgstr ""
+
+#: includes/custom_post_type.php:28
+msgid "User Role"
+msgstr ""
+
+#: includes/custom_post_type.php:23
+msgid "User Status"
+msgstr ""
+
+#: main.php:191
+msgid ""
+"Version of Font Awesome that will be used on front end. Please select "
+"version that you have in your theme"
+msgstr ""
+
+#: includes/custom_post_type.php:291
+msgid "View Products List"
+msgstr ""
+
+#: includes/custom_post_type.php:290
+msgid "View Products Lists"
+msgstr ""
+
+#: includes/custom_post_type.php:60
+msgid "Wednesday"
+msgstr ""
+
+#: includes/custom_post_type.php:8
+msgid "Week Day"
+msgstr ""
+
+#: includes/widget.php:111 includes/custom_post_type.php:13
+msgid "Widget Position"
+msgstr ""
+
+#: includes/custom_post_type.php:386
+msgid "You need save it to get shortcode"
+msgstr ""

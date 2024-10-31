@@ -1,0 +1,8 @@
+
+.berocket_pagination_style {
+    border-collapse: collapse;
+}
+.berocket_pagination_style td,
+.berocket_pagination_style th {
+    border: 1px solid #555;
+}

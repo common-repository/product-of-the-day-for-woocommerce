@@ -1,0 +1,10 @@
+<wpml-config>
+    <shortcodes>
+        <shortcode>
+            <tag>br_products_of_day</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>
+</wpml-config>
